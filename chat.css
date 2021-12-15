@@ -1,0 +1,98 @@
+.body-backgorund {
+    background-image: url("https://www.triptobudapest.hu/wp-content/uploads/2021/05/Green-background-from-Vecteezy.jpg");
+}
+
+body {
+    text-align: center;
+}
+
+img {
+    height: 270px;
+}
+
+#login_box {
+    width: fit-content;
+    background-color: white;
+    border-radius: 10px;
+    height: 150px;
+}
+
+#user_name {
+    width: 300px;
+}
+
+#Mini_Logo {
+    height: 125px;
+}
+
+.body-backgorund {
+    background-image: url("https://www.triptobudapest.hu/wp-content/uploads/2021/05/Green-background-from-Vecteezy.jpg");
+}
+
+h1 {
+    background-color: limegreen;
+    border: 5px solid black;
+    border-radius: 20px;
+    width: 300px;
+    height: 100px;
+}
+
+.room_name
+{
+	cursor: pointer;
+	font-size: 20px;
+}
+
+#logout
+{
+	font-size: 20px; float: right; height: 40px; background-color: rgb(255, 79, 79); border: solid rgb(167, 0, 0);
+    color: white;
+}
+
+#output
+{
+	padding: 10px; width:80%;background: rgba(0, 255, 106, 0.8);border-radius: 15px;
+}
+
+.input_div_room_page
+{
+	width: 80%;
+}
+
+.input_div label
+{
+	color: white;font-size: 20px;
+}
+
+
+.input_div_message_page
+{
+	position: fixed;bottom: 0px;width: 100%;background: rgba(255,255,255,0.8);
+}
+.input_div_message_page label
+{
+	color: black;
+}
+.input_div_message_page #msg
+{
+	width: 80%;
+}
+.input_div_message_page button
+{
+	margin-top: 15px;
+	width: 50%; 
+}
+.color_white
+{
+	color: white
+}
+
+.user_tick
+{
+	width:20px;
+    height: 20px;
+}
+.message_h4
+{
+	padding-left:5px;color:grey;
+}
